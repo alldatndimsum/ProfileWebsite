@@ -2,7 +2,7 @@
 
 ## Getting Super Powers \[I can now make edits anywhere!!!\]
 
-Becoming a super hero is a fairly straight forward process:
+Becoming a super hero is a fairly straight forward process: [even on github]!
 
 ```
 $ give me super-powers
